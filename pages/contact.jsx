@@ -14,16 +14,16 @@ export default function Home() {
         <p className="text-xl text-white/50 font-normal text-center mb-5">Other addresses where you can contact me.</p>
         <div className=" flex justify-center flex-col items-center">
             <div className="max-w-lg w-full">
-                <a target="_blank" rel="norefferer" href="https://discord.com/users/615029465726320654">
+                <a target="_blank" rel="norefferer" href="https://discord.com/users/987087764661088306">
                     <div className="mt-2 flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
                         <i className="fab fa-discord fa-2x" />
-                        <p className="font-semibold text-xl">@umutxyp</p>
+                        <p className="font-semibold text-xl">@knaves</p>
                     </div>
                 </a>
-                <a href="mailto:umutbayraktar55@gmail.com">
+                <a href="mailto:Knaves">
                     <div className="mt-2 flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
                         <i className="fa fa-envelope fa-2x" />
-                        <p className="font-semibold text-xl">umutbayraktar55@hotmail.com</p>
+                        <p className="font-semibold text-xl">Knaves</p>
                     </div>
                 </a>
             </div>
