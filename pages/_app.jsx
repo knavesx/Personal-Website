@@ -38,7 +38,7 @@ function MyApp({ Component, pageProps }) {
   return (<>
     <Head>
         <title>Knaves</title>
-        <link rel="shortcut icon" href="https://ugc.production.linktr.ee/6RJk9s2pQZ2yAdcxw3Ir_TXX2dLlNmwM2OFdf?io=true&size=avatar-v3_0" type="image/x-icon" ></link>
+        <link rel="shortcut icon" href="https://media.discordapp.net/attachments/1282140026200653825/1282140121214222357/UHPy-0u4S8qGq4s0vmES3g.png?ex=66e43449&is=66e2e2c9&hm=cafc735beaba862daf3d8805374aecfb18bac1ce069c69d329f21ea08bc72491&=&format=webp&quality=lossless&width=671&height=671" type="image/x-icon" ></link>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link href="https://pro.fontawesome.com/releases/v5.15.4/css/all.css" rel="stylesheet" />
 
