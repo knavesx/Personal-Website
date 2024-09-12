@@ -5,7 +5,7 @@ export default async (req, res) => {
       image: "https://media.discordapp.net/attachments/1282140026200653825/1282140058672955402/DcWWWF00TXaI3JkILQU3-Q.png?ex=66e4343a&is=66e2e2ba&hm=be560b5886098e57d2d0c53a71c98f8784e800714c17d1b4935e204241d7a814&=&format=webp&quality=lossless&width=671&height=671",
       name: "Knaves",
       description: "My Discord Account",
-      link: "(https://discord.com/users/987087764661088306)",
+      link: "https://discord.com/users/987087764661088306",
     },
     
     {
