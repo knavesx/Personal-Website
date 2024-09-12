@@ -17,13 +17,13 @@ export default function Home() {
                 <a target="_blank" rel="norefferer" href="https://discord.com/users/987087764661088306">
                     <div className="mt-2 flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
                         <i className="fab fa-discord fa-2x" />
-                        <p className="font-semibold text-xl">@knaves</p>
+                        <p className="font-semibold text-xl">knaves#4219</p>
                     </div>
                 </a>
                 <a href="mailto:Knaves">
                     <div className="mt-2 flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
                         <i className="fa fa-envelope fa-2x" />
-                        <p className="font-semibold text-xl">Knaves</p>
+                        <p className="font-semibold text-xl">knavesx@gmail.com</p>
                     </div>
                 </a>
             </div>
