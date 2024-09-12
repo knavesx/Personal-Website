@@ -2,7 +2,7 @@ export default async (req, res) => {
   const data = [
     {
       id: 2,
-      image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tamindir.com%2Fhaber%2Fdiscord-logosu_67741%2F&psig=AOvVaw31tdvmHhK-YrIR6t7MT6Kg&ust=1726246303036000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjOxN_uvYgDFQAAAAAdAAAAABAE",
+      image: "https://cdn.discordapp.com/attachments/1283805443512205363/1283832833256853556/san.png?ex=66e46dff&is=66e31c7f&hm=ed9d2e1b69a19454d822c0ec1eeddfaab4201b6cc4c2ede29dbb57c66f799c21&",
       name: "Discord",
       description: "",
       link: "https://discord.gg/qeW6Gjz3Zd",
