@@ -3,7 +3,6 @@ const items = [
         { icon: 'fab fa-instagram', link: 'https://instagram.com/knaves' },
         { icon: 'fab fa-telegram', link: 'https://t.me/knaves' },
     { icon: 'fab fa-youtube', link: 'https://youtube.com/knaves' },
-    { icon: 'fab fa-facebook', link: 'https://facebook.com/knaves' },
     { icon: 'fab fa-github', link: 'https://github.com/knaves' },
   ]
 
