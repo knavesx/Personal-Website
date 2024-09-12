@@ -16,16 +16,16 @@ export default function Home() {
               <div className="flex flex-col lg:justify-start justify-center items-center lg:items-start mt-5 lg:mt-0 w-full">
                 <div className="flex items-center">
                 <p className="flex items-center text-white text-4xl font-semibold">
-                  Umut Bayraktar
+                  Knaves
                 </p>
             
                 </div>
                 <p className="text-white/50 text-md mt-3">
-I am a professional editor and software developer. I have been professionally interested in community management and development for 5 years, I have high level knowledge and experience in areas such as community management and social media management.
+I am a professional editor and software developer. I have been professionally involved in community management and development for 2 years. I have high-level knowledge and experience in areas such as community management and social media management.
                 </p>
               </div>
               <div className={`order-first lg:order-last flex-shrink-0 relative w-[160px] h-[160px] rounded-full pulse-avatar-online `}>
-                <img alt="umutbayraktar" src={`https://ugc.production.linktr.ee/6RJk9s2pQZ2yAdcxw3Ir_TXX2dLlNmwM2OFdf?io=true&size=avatar-v3_0`} width="160" height="160" className={`bg-neutral-700 w-[160px] h-[160px] rounded-full`} />
+                <img alt="knaves" src={`https://media.discordapp.net/attachments/1282140026200653825/1282140058672955402/DcWWWF00TXaI3JkILQU3-Q.png?ex=66e4343a&is=66e2e2ba&hm=be560b5886098e57d2d0c53a71c98f8784e800714c17d1b4935e204241d7a814&=&format=webp&quality=lossless&width=671&height=671`} width="160" height="160" className={`bg-neutral-700 w-[160px] h-[160px] rounded-full`} />
               </div>
               
             </div>
@@ -45,7 +45,7 @@ I am a professional editor and software developer. I have been professionally in
             
                 </div>
                 <p className="text-white/50 text-md mt-3">
-                  I'm a 19-year-old living in London, England. I am originally from Turkey. I was born in Antalya. My first project is <a href="https://codeshare.me">Code Share</a>, a public software publishing platform. I have long term experience in community management and general project planning. I am a professional content producer and have more than 55k followers in the field of software and cryptocurrency on social media. I am a fullstack web developer, but as of 2024, I am not actively developing a full project. 
+I am 18 years old, I am from Turkey. I was born in Niğde. I am a professional content producer and I have over 15 thousand followers on social media in the field of software and cryptocurrency. I am a fullstack web developer, but as of 2024 I am not actively developing full projects.
                 </p>
               </div>
               
